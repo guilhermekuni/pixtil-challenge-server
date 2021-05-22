@@ -1,0 +1,16 @@
+{
+  "name": "pixtil-challenge-server",
+  "version": "1.0.0",
+  "description": "Pixtil Challenge Fake API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/guilhermekuni/pixtil-challenge-server.git",
+  "author": "Kuni <guilhermekuni@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
